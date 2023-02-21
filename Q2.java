@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class hw3task2 {
+public class task2 {
     public static void main(String[] args) {
         int[] myList = {8, 72, 43, 6, 1, 13, 18, 76, 33, 59};
         ArrayList<Integer> newlist = new ArrayList<Integer>();
