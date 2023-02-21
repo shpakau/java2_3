@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.ArrayList;
 
-public class hw3task1 {
+public class task1 {
         public static void main(String args[]) {
             List<List<Integer>> matrix = new ArrayList<>();
 
